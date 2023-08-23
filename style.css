@@ -187,6 +187,7 @@ section {
     justify-content: space-between;
     width: 320px;
     height: 45px;
+    margin-top: 30px;
 }
 
 .btn-box .btn {
